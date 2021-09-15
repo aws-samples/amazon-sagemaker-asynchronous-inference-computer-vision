@@ -8,6 +8,9 @@ In this sample, we serve a PyTorch Computer Vision model with SageMaker asynchro
 5. Notifications of completed requests via SNS 
 6. Auto-scaling of endpoints based on queue length metric with minimum value set to 0 instances
 
+![Async_Diagram](https://user-images.githubusercontent.com/8871432/133468905-c0600795-b69a-4112-9777-3a4cd79c494c.png)
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
